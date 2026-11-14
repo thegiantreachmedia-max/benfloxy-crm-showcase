@@ -10,11 +10,9 @@ BenFloxy CRM is built for the team at BenFloxy Services who manage customer rela
 
 ## Key features
 
-- **Lead management** - Organise and manage business leads.
 - **Lead tracking** - Keep track of leads throughout the customer acquisition process.
-- **Customer records** - Maintain organised customer information.
-- **Customer and lead organisation** - Keep customer and prospect information structured in one system.
-- **CRM workspace** - Bring customer and lead management into a central workspace.
+- **Customer records** - Maintain organised customer information in one system.
+- **Central workspace** - Manage customers and leads from a single CRM.
 
 ## Tech stack
 - JavaScript
