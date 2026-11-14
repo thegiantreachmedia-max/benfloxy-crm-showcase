@@ -1,39 +1,36 @@
 # BenFloxy CRM
 
-**A customer and lead management CRM for BenFloxy Services.**
+**A branded sign-in interface prototype for a customer and lead management CRM for BenFloxy Services.**
 
-This repository is a showcase. Source code is private.
+This repository is a public project showcase. The source currently contains the sign-in page only.
 
 ## Who it's for
 
-BenFloxy CRM is for the team at BenFloxy Services. It is intended to provide a central workspace for managing customer enquiries and lead information.
+BenFloxy CRM is intended for the team at BenFloxy Services. The project direction is to provide a dedicated workspace for accessing customer and lead information, but the current repository does not contain the CRM dashboard or lead-management workflows.
 
 ## Key features
 
-- [FILL_IN: describe how leads are captured]
-- [FILL_IN: describe the customer record management capability]
-- [FILL_IN: describe the lead tracking capability]
-- [FILL_IN: describe the follow-up workflow]
-- [FILL_IN: describe team access or reporting capability]
+- **Branded sign-in screen** — displays the BenFloxy CRM identity and login interface.
+- **Email and password fields** — provides the form inputs for account sign-in.
+- **Form validation** — requires an email address and password before submission.
+- **Authentication integration scaffold** — includes Supabase Auth client code, but the current configuration disables the connection.
+- **Post-login redirect setup** — points to a planned `crm-dashboard.html` page, which is not present in the current repository.
 
-## Screenshots
+## Technology
 
-![Screenshot 1 - [FILL_IN: sign-in screen]](docs/screenshots/01.png)
-![Screenshot 2 - [FILL_IN: CRM dashboard]](docs/screenshots/02.png)
-![Screenshot 3 - [FILL_IN: customer or lead management view]](docs/screenshots/03.png)
+- HTML
+- CSS
+- JavaScript
+- Supabase JavaScript client
+- Google Fonts
 
-## Tech stack
+## Current limitations
 
-- JavaScript — [CONFIRM]
-- Supabase — [CONFIRM]
-- PostgreSQL — [CONFIRM]
-- Vercel — [CONFIRM]
-- Render — [CONFIRM]
-- GitHub — [CONFIRM]
+The current code is a sign-in prototype, not a working CRM application. Supabase authentication is disabled by the existing configuration, and the configured dashboard destination is missing from the repository. Customer records, lead management, follow-ups, team permissions and reporting are not implemented in the source currently available for audit.
 
 ## Status
 
-[FILL_IN: Live / In development / Private beta].
+Prototype only. The sign-in page is present, but authentication is not active and the CRM dashboard is not included.
 
 ## About
 
