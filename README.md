@@ -1,56 +1,40 @@
 # BenFloxy CRM
 
-**A customer and lead management workspace for BenFloxy Services.**
+**A customer and lead management CRM for BenFloxy Services.**
 
-BenFloxy CRM is a business CRM project focused on giving the team a central place to access and manage customer enquiries and leads.
+This repository is a showcase. Source code is private.
 
-This repository is the public-facing project showcase. The application source code is maintained separately in a private repository.
+## Who it's for
 
----
+BenFloxy CRM is for the team at BenFloxy Services. It is intended to provide a central workspace for managing customer enquiries and lead information.
 
-## Project overview
+## Key features
 
-Businesses need a consistent way to keep track of incoming leads, customer details and follow-up activity. BenFloxy CRM is being developed to support that work through a dedicated, authenticated workspace.
+- [FILL_IN: describe how leads are captured]
+- [FILL_IN: describe the customer record management capability]
+- [FILL_IN: describe the lead tracking capability]
+- [FILL_IN: describe the follow-up workflow]
+- [FILL_IN: describe team access or reporting capability]
 
-## Core direction
+## Screenshots
 
-- **Lead management** — keep prospective customer information organised.
-- **Customer visibility** — provide a central workspace for accessing lead records.
-- **Account access** — protect the CRM workspace with authenticated sign-in.
-- **Operational workflow** — support the team's day-to-day customer and enquiry management.
+![Screenshot 1 - [FILL_IN: sign-in screen]](docs/screenshots/01.png)
+![Screenshot 2 - [FILL_IN: CRM dashboard]](docs/screenshots/02.png)
+![Screenshot 3 - [FILL_IN: customer or lead management view]](docs/screenshots/03.png)
 
-## Application interface
+## Tech stack
 
-The current application interface includes a branded sign-in screen with email and password authentication, built to connect with Supabase Auth.
+- JavaScript — [CONFIRM]
+- Supabase — [CONFIRM]
+- PostgreSQL — [CONFIRM]
+- Vercel — [CONFIRM]
+- Render — [CONFIRM]
+- GitHub — [CONFIRM]
 
-The wider CRM workflow is being developed separately. This showcase describes the project without presenting unfinished functionality as already available.
+## Status
 
-## Technology
+[FILL_IN: Live / In development / Private beta].
 
-The current implementation uses:
+## About
 
-- HTML, CSS and JavaScript
-- Supabase for authentication and backend services
-- Google Fonts for interface typography
-
-## Project status
-
-BenFloxy CRM is an ongoing project. The public showcase is intended to document its purpose and development; it is not a live CRM deployment or a copy of the private application source.
-
-## Security
-
-- Application source code and private implementation details are kept in a separate private repository.
-- Never commit Supabase service-role keys, passwords, customer records or other private credentials.
-- Public client-side configuration must use appropriately restricted publishable credentials and secure database access policies.
-
-## Built by The Giant Reach
-
-BenFloxy CRM is a project by **[The Giant Reach](https://www.thegiantreach.com)**, building client acquisition and workflow systems for businesses.
-
-- **Website:** https://www.thegiantreach.com
-- **Portfolio:** https://www.thegiantreach.com/portfolio
-- **Contact:** [opeyemi@thegiantreach.com](mailto:opeyemi@thegiantreach.com)
-
----
-
-*BenFloxy CRM — bringing customer and lead management into one workspace.*
+Built by [The Giant Reach](https://www.thegiantreach.com), a software company for immigration entrepreneurs, visa consultants, immigration firms and study-abroad businesses in Africa.
