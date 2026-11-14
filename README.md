@@ -16,13 +16,11 @@ BenFloxy CRM is intended for the team at BenFloxy Services. The project directio
 - **Authentication integration scaffold** — includes Supabase Auth client code, but the current configuration disables the connection.
 - **Post-login redirect setup** — points to a planned `crm-dashboard.html` page, which is not present in the current repository.
 
-## Technology
+## Tech stack
 
-- HTML
-- CSS
 - JavaScript
-- Supabase JavaScript client
-- Google Fonts
+- Supabase
+
 
 ## Current limitations
 
